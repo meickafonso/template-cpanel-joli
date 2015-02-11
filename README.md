@@ -26,4 +26,4 @@ Joli is a free admin template/Dashboard/Web App based on Angular JS. Its is resp
 * Name: Randy Riolis
 * Email: randy.riolis@gmail.com
 * Phone: 085769050599
-* Created Date: 04 Februari 2015
+* Created Date: 11 Februari 2015
